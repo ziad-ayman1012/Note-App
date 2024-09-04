@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Franklin Gothic FS
+Author: FontSite Inc.
+Url: http://www.fontsquirrel.com/fonts/franklin-gothic-fs
+
+Font: Bubbler One
+Author: Brenda Gallo
+Url: https://www.fontsquirrel.com/fonts/bubbler-one
